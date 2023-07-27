@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.you {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: pre-wrap;
+  text-align: start;
+}
